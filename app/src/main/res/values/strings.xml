@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">Quizzer</string>
-    <string name="question_text">This is a true or false question</string>
+    <string name="question_france">Is Toulouse the capital  of France?</string>
+    <string name="question_art">Did Leonardo paint the Mona Lisa?</string>
+    <string name="question_planet">is Jupiter the largest planet in the solar system?</string>
     <string name="true_button">True</string>
     <string name="false_button">False</string>
     <string name="correct_toast">Congratulations! That is the correct toast.</string>
